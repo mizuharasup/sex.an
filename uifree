@@ -4,7 +4,7 @@ local TextLabel = Instance.new("TextLabel")
 ScreenGui.Parent = game.CoreGui
 
 TextLabel.Parent = ScreenGui
-TextLabel.Text = "Cuttay Hub bản Free \n discord.gg/baokhanh"
+TextLabel.Text = "Cuttay Hub bản Free \n Discord.gg/baokhanh"
 TextLabel.Position = UDim2.new(0.5, 0, 0,5, 0.5)
 TextLabel.AnchorPoint = Vector2.new(0.5, 0.5)
 TextLabel.BackgroundTransparency = 0.5
